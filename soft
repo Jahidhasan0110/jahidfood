@@ -10,7 +10,7 @@
   {
     "id": "29",
     "name": "Speed",
-    "propellant": "$90",
+    "propellant": "$80",
     "destination": "Proxima Centauri",
     "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_wvGestjyU0nF8xzYwAj8a9rlsHFrr0SZA&usqp=CAU",
     "technologyexists": "0"
