@@ -26,7 +26,7 @@
   {
     "id": "31",
     "name": "Tomato Pizza",
-    "propellant": "$310",
+    "propellant": "$300",
     "destination": "Saturn",
     "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGh0hf8ABF1F5EDrcLHAf-NpOI8NpeDC7rmw&usqp=CAU",
     "technologyexists": "0"
