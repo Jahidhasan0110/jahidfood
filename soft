@@ -26,7 +26,7 @@
   {
     "id": "31",
     "name": "Pepsi",
-    "propellant": "$140",
+    "propellant": "$130",
     "destination": "Saturn",
     "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAa9SGsWSVNcBV9mNZEn-HWw2w6W3-hDGYJtO6AZdhOeD9hz3GDJMQ34R-3kSJJjOfpMI&usqp=CAU",
     "technologyexists": "0"
